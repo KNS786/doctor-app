@@ -1,0 +1,6 @@
+package com.cagtyhsys.workmydays
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

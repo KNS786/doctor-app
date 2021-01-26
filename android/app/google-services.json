@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622404165515",
+    "project_id": "workmy-a8590",
+    "storage_bucket": "workmy-a8590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622404165515:android:506eb5c59b4fd10f41998e",
+        "android_client_info": {
+          "package_name": "com.cagtyhsys.workmydays"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622404165515-61udkj7rigl717qjukcgtao7to4cpn6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAfBiYauz0H25MaX-GSymc1Rc8iFYPGSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622404165515-61udkj7rigl717qjukcgtao7to4cpn6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
